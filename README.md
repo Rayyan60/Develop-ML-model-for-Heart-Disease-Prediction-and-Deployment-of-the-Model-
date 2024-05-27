@@ -1,0 +1,2 @@
+# Develop-ML-model-for-Heart-Disease-Prediction-and-Deployment-of-the-Model-
+Developed and deployed a Python-based machine learning model for heart disease prediction, utilizing patient data such as age, gender, blood pressure, and cholesterol levels. Achieved high accuracy in identifying individuals at risk of cardiovascular issues through extensive data pre processing and model training on large datasets
